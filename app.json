@@ -1,7 +1,7 @@
 {
   "expo": {
-      "name": "Dlcf Hub",
-    "slug": "expo-template-blank",
+    "name": "Dlcf Hub",
+    "slug": "dlcfhub",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,7 +25,11 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "android": {
+      "package": "com.doctygaming.dlcf_hub"
+    },
+    "description": "A Store Hub for Deeper Life Campus Church "
   },
   "slug": "Dlcf-Hub",
   "name": "Dlcf"
