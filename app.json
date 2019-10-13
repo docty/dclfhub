@@ -29,7 +29,8 @@
     "android": {
       "package": "com.doctygaming.dlcf_hub"
     },
-    "description": "A Store Hub for Deeper Life Campus Church "
+    "description": "A Store Hub for Deeper Life Campus Church ",
+    "githubUrl": "https://github.com/docty/dclfhub"
   },
   "slug": "Dlcf-Hub",
   "name": "Dlcf"
